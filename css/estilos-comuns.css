@@ -1,0 +1,38 @@
+h1 {
+  font-family: "Times New Roman", serif;
+  font-size: 28px;
+  color: limegreen;
+}
+
+h2 {
+  font-family: "Times New Roman", serif;
+  font-size: 22px;
+  color: limegreen;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin: 0 10%;
+}
+
+p {
+  text-align: justify;
+}
+
+blockquote {
+  margin: 0 0 0 60px;
+  text-align: justify;
+  font-style: italic;
+}
+
+q {
+  font-style: italic;
+}
+
+img {
+  border: 8px solid limegreen;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
