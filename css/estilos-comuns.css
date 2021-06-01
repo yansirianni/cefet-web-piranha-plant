@@ -36,3 +36,8 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+html,
+body {
+  min-height: 100%;
+}
